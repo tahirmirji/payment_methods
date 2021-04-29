@@ -33,7 +33,7 @@ class CreditCardsConceptDetailPage extends StatelessWidget {
                       delegate: SliverChildListDelegate(
                         [
                           Text(
-                            'Full card',
+                            'Full card details',
                             textAlign: TextAlign.center,
                             style: textTheme.headline6.copyWith(
                               color: Colors.white,

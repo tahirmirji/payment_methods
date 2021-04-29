@@ -244,7 +244,7 @@ class _CreditCardWidgetState extends State<CreditCardWidget>
                                             height: 5,
                                           ),
                                           Text(
-                                            'Diegoveloper',
+                                            'NextinGo',
                                             style: TextStyle(
                                               fontSize: 14,
                                               color: Colors.white,
